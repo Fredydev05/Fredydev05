@@ -30,7 +30,7 @@ Soy un desarrollador de software con experiencia en **web development** y **auto
 
 #### 🎨 **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,astro,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,astro,tailwind,ts" />
 </p>
 
 #### 🗄️ **Databases**
