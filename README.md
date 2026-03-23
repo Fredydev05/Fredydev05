@@ -25,7 +25,7 @@ Soy un desarrollador de software con experiencia en **web development** y **auto
 
 #### 🛠 **Backend & Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,vite" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vite,angular,laravel" />
 </p>
 
 #### 🎨 **Frontend**
