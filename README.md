@@ -1,51 +1,54 @@
 <h1 align="center">Hi there, I'm Fredy Céspedes 👋</h1>
 
 <p align="center">
-🚀 <b>Software Developer | Web </b><br>
-Apasionado por la tecnología y el desarrollo de soluciones que escalan.
+ <b>Full Stack Developer | Web & Automation </b><br>
+Apasionado por la tecnología, la arquitectura de sistemas y el desarrollo de soluciones escalables.
 </p>
 
 ---
 
-### 🚀 About Me
-Soy un desarrollador de software con experiencia en **web development** y **automatización de procesos**.
+### About Me
+Soy un desarrollador de software **Full Stack** con amplia experiencia en el ciclo de vida completo del desarrollo web, optimización de bases de datos y la **automatización de procesos complejos**.
 
 ---
 
-### 💼 What I Do
-- 🌐 **Web Development:** React.js, Astro, PHP, etc.  
+### What I Do
+- 🌐 **Full Stack Development:** Creación de aplicaciones robustas utilizando arquitecturas modernas.
+- ⚙️ **Data Automation:** Orquestación de flujos de datos y automatización de tareas de backend.
+- 🔄 **CI/CD:** Implementación de pipelines de integración y despliegue continuo para garantizar entregas ágiles y seguras.
+
 ---
 
 ### 🧰 Tech Stack
 
-#### 💻 **Languages**
+#### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,java,php" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,php,python" />
 </p>
 
-#### 🛠 **Backend & Frameworks**
+#### **Backend & Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,vite,angular,laravel" />
+  <img src="https://skillicons.dev/icons?i=laravel,spring,nextjs,react,angular" />
 </p>
 
-#### 🎨 **Frontend**
+#### **Frontend & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,astro,tailwind,ts" />
+  <img src="https://skillicons.dev/icons?i=astro,tailwind,bootstrap,vite,html,css" />
 </p>
 
-#### 🗄️ **Databases**
+#### **Databases & Orchestration**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,airflow" />
 </p>
 
-#### 🔧 **DevOps & Tools**
+####  **DevOps & CI-CD**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 <p>
   <a href="https://github.com/Fredydev05"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://linkedin.com/in/fredy-cespedes"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
@@ -54,5 +57,4 @@ Soy un desarrollador de software con experiencia en **web development** y **auto
 ---
 
 ### 📌 Always open to collaboration!
-💬 *Si tenés una idea o proyecto, hablemos.*
-
+💬 *Si tenés una idea o proyecto, hablemos.
